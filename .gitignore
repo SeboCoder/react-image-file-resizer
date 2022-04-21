@@ -2,7 +2,7 @@
 /node_modules
 
 # production
-/build
+
 
 # npm packs
 react-image-file-resizer-0.4.7.tgz
